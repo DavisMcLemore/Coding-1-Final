@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for F2020 Coding 1
+ My webpage showcases some of my interests and passion. When you first open my page you will see a carousel of images and footer. These are images of some of my favorite music artists right now. You can click the left or right arrow to swap between the three images. I also have an “About” and “Contact” page. On the “About” page I explain my interest in music and how I’ve taught myself to play three instruments in the past year... There is an image and footer along with this. On the “Contact” page, you will find my contact information and another footer. 
